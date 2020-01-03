@@ -208,7 +208,7 @@ creado un ejemplo para que veamos su uso, podemos verlo en voting/views.py
 
 Si nosotros queremos que la salida que nos da la llamada a la API /voting/, sea
 diferente en la versión 2, solo tenemos que comprobar en la versión nos está
-llegando, y hacer lo que queramos, por ejemplo:
+llegando, y hacer lo que queramos, por ejemplo :
 
 
 ```
